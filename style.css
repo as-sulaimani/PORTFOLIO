@@ -1,0 +1,90 @@
+body{
+    background-color: #FFEADD;
+    font-family: "Gill Sans", sans-serif;
+}
+
+header{
+    display: flex;
+    /* justify-content: center; */
+    justify-content: space-between;
+    /* border-radius: 5px;
+    background-color: #FCAEAE; */
+}
+
+h1{
+    margin-left: 40px;
+}
+
+.links{
+    /* background-color: aquamarine; */
+    width: 500px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.headerLinks{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    
+    
+}
+.name a{
+    text-decoration: none;
+    color: black;
+}
+section{
+    /* background-color: brown; */
+    height: 474px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.myPic{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+.myDes{
+    width: 400px;
+}
+
+.resume{
+    /* text-decoration: none; */
+    color: black;
+}
+
+.contactsSection{
+
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+
+.exp{
+    font-family: sans-serif;a
+    height:min-content;
+
+    width:fit-content;
+    width: 1000px;
+    font-size: 20px;
+}
+
+
+a:hover{
+    color: #eda86b;
+}
+
+
+.headerLinks:hover{
+    padding: 15px 36px;
+    font-size: 16px;
+    color: white;
+    background-color: #eda86b;
+  
+
+}
