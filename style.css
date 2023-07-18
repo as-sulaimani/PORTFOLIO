@@ -68,8 +68,7 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 .exp{
     font-family: sans-serif;a
     height:min-content;
-
-    width:fit-content;
+/*     width:fit-content; */
     width: 1000px;
     font-size: 20px;
 }
